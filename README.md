@@ -4,4 +4,4 @@ Se vuoi provare Bracky puoi usare una macchina virtuale Windows 11/10, non é ne
 
 NON APRIRE BRACKY NEL VOSTRO HOST, RENDERÁ IL COMPUTER INUTILIZZABILE!!
 
-Se sei curioso trovi anche il codice sorgente nel repository ;)                                                              --- Creato da ElektroWindows :)
+Se sei curioso trovi anche il codice sorgente nella zip ;)                                                              --- Creato da ElektroWindows :)
